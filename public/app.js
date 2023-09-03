@@ -15,7 +15,7 @@ let conditions = [
 ];
 
 // Function to handle player moves
-const ticTacToe = (element, index) => {
+function ticTacToe = (element, index) => {
     // Your game logic here
 
     /*
@@ -34,6 +34,7 @@ const ticTacToe = (element, index) => {
 
     // Your code to handle button and cell interactions
     // ...
+    
 };
 
     /*
