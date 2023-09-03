@@ -31,7 +31,12 @@ h1{
   align-items: center;
 }
 
-.
+.game-board{
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  justify-content: center;
+}
 
 .btn{
   border: 2px solid #fff;
