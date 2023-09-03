@@ -25,13 +25,13 @@ h1{
   margin: 35px;
 }
 
-.game-grid{
+.box{
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.game-board{
+.row{
   display:grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
